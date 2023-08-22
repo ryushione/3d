@@ -1,0 +1,12 @@
+[
+    { "endLat": 35.6895, "endLng": 139.6917 }, // Tokyo
+    { "endLat": 35.4437, "endLng": 139.6380 }, // Yokohama
+    { "endLat": 34.6937, "endLng": 135.5023 }, // Osaka
+    { "endLat": 35.1815, "endLng": 136.9066 }, // Nagoya
+    { "endLat": 43.0621, "endLng": 141.3544 }, // Sapporo
+    { "endLat": 33.5902, "endLng": 130.4017 }, // Fukuoka
+    { "endLat": 34.6901, "endLng": 135.1955 }, // Kobe
+    { "endLat": 35.0116, "endLng": 135.7681 }, // Kyoto
+    { "endLat": 34.3853, "endLng": 132.4553 }, // Hiroshima
+    { "endLat": 38.2682, "endLng": 140.8694 }  // Sendai
+]
